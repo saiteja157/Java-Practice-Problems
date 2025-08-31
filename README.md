@@ -3,8 +3,8 @@ A collection of Java practice problems and solutions including basic conversions
 This repository is meant for learning and practicing Java basics with simple, beginner-friendly examples.
 
 Contents
->> Conversions (Celsius to Fahrenheit, Kg to Grams)
->> Arithmetic Operations using Switch condition (+ , - , * , /, %).
+1. Conversions (Celsius to Fahrenheit, Kg to Grams).
+2. Arithmetic Operations using Switch condition (+ , - , * , /, %).
 
 
 
