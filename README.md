@@ -4,3 +4,15 @@ This repository is meant for learning and practicing Java basics with simple, be
 
 Contents
 >> Conversions (Celsius to Fahrenheit, Kg to Grams)
+
+
+
+
+
+### How to Run 
+
+1. Download this repository to your computer.  
+2. Open a terminal/command prompt in the folder where the Java files are saved.  
+3. Compile the program using:
+    javac FileName.java
+    java FileName
