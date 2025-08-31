@@ -15,7 +15,6 @@ Output : 5600 Grams
 Explanation:
 in the above example we have to convert the 5.6kg to grams so you have to print 5600Grams.*/
 
-Code : 
 import java.util.Scanner;
 
 class Main
