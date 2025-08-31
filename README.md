@@ -4,6 +4,7 @@ This repository is meant for learning and practicing Java basics with simple, be
 
 Contents
 >> Conversions (Celsius to Fahrenheit, Kg to Grams)
+>> Arithmetic Operations using Switch condition (+ , - , * , /, %).
 
 
 
