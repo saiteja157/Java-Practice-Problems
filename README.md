@@ -15,5 +15,5 @@ Contents
 1. Download this repository to your computer.  
 2. Open a terminal/command prompt in the folder where the Java files are saved.  
 3. Compile the program using:
-   . javac FileName.java
-   . java FileName
+   --> javac FileName.java
+   --> java FileName
